@@ -1,0 +1,288 @@
+;Ticker;Setor;QuantidadeAtivos
+0;ABCP11;Shoppings;1
+1;AFHI11;Títulos e Val. Mob.;0
+2;AIEC11;Lajes Corporativas;2
+3;ALMI11;Lajes Corporativas;1
+4;ALZM11;Títulos e Val. Mob.;0
+5;ALZR11;Logística;15
+6;APTO11;Híbrido;0
+7;ARCT11;Híbrido;4
+8;ARRI11;Títulos e Val. Mob.;0
+9;ATSA11;Shoppings;1
+10;BARI11;Títulos e Val. Mob.;0
+11;BBFI11B;Lajes Corporativas;2
+12;BBFO11;Títulos e Val. Mob.;0
+13;BBGO11;Títulos e Val. Mob.;0
+14;BBIM11;Títulos e Val. Mob.;0
+15;BBPO11;Lajes Corporativas;64
+16;BBRC11;Outros;20
+17;BCFF11;Títulos e Val. Mob.;0
+18;BCIA11;Títulos e Val. Mob.;0
+19;BCRI11;Títulos e Val. Mob.;0
+20;BICE11;Títulos e Val. Mob.;0
+21;BICR11;Títulos e Val. Mob.;0
+22;BLCA11;Lajes Corporativas;1
+23;BLCP11;Outros;2
+24;BLMC11;Outros;0
+25;BLMG11;Logística;4
+26;BLMO11;Lajes Corporativas;1
+27;BLMR11;Títulos e Val. Mob.;0
+28;BMLC11;Lajes Corporativas;2
+29;BNFS11;Outros;18
+30;BPFF11;Títulos e Val. Mob.;0
+31;BPML11;Shoppings;7
+32;BRCO11;Logística;10
+33;BRCR11;Híbrido;15
+34;BREV11;Híbrido;12
+35;BRIP11;Híbrido;0
+36;BRLA11;Híbrido;0
+37;BTAL11;Outros;7
+38;BTCR11;Títulos e Val. Mob.;0
+39;BTLG11;Logística;16
+40;BTRA11;Outros;0
+41;BTSG11;Híbrido;0
+42;BTSI11;Híbrido;0
+43;BTWR11;Lajes Corporativas;1
+44;BZLI11;Títulos e Val. Mob.;0
+45;CACR11;Híbrido;0
+46;CARE11;Híbrido;0
+47;CBOP11;Lajes Corporativas;1
+48;CCRF11;Títulos e Val. Mob.;0
+49;CEOC11;Lajes Corporativas;1
+50;CJCT11;Lajes Corporativas;1
+51;CNES11;Lajes Corporativas;1
+52;CORM11;Híbrido;0
+53;CPFF11;Híbrido;0
+54;CPTS11;Títulos e Val. Mob.;0
+55;CRFF11;Títulos e Val. Mob.;0
+56;CTXT11;Lajes Corporativas;1
+57;CVBI11;Títulos e Val. Mob.;0
+58;CXAG11;Outros;0
+59;CXCE11B;Outros;1
+60;CXCO11;Lajes Corporativas;0
+61;CXRI11;Híbrido;0
+62;CXTL11;Logística;3
+63;CYCR11;Títulos e Val. Mob.;0
+64;DEVA11;Títulos e Val. Mob.;0
+65;DRIT11B;Lajes Corporativas;6
+66;DVFF11;Híbrido;0
+67;EDFO11B;Lajes Corporativas;1
+68;EDGA11;Lajes Corporativas;1
+69;EQIR11;Títulos e Val. Mob.;0
+70;ERCR11;Híbrido;0
+71;EURO11;Logística;6
+72;EVBI11;Híbrido;4
+73;FAED11;Outros;3
+74;FAMB11B;Lajes Corporativas;1
+75;FATN11;Híbrido;7
+76;FCFL11;Outros;1
+77;FEXC11;Títulos e Val. Mob.;0
+78;FIGS11;Shoppings;2
+79;FIIB11;Híbrido;1
+80;FIIP11B;Logística;7
+81;FISC11;Lajes Corporativas;0
+82;FIVN11;Shoppings;1
+83;FLCR11;Títulos e Val. Mob.;0
+84;FLMA11;Híbrido;2
+85;FLRP11;Shoppings;1
+86;FMOF11;Lajes Corporativas;1
+87;FPAB11;Lajes Corporativas;1
+88;FVPQ11;Shoppings;1
+89;GALG11;Híbrido;6
+90;GAME11;Híbrido;0
+91;GCFF11;Títulos e Val. Mob.;0
+92;GCRA11;Híbrido;0
+93;GCRI11;Títulos e Val. Mob.;0
+94;GESE11B;Outros;0
+95;GGRC11;Logística;20
+96;GSFI11;Shoppings;10
+97;GTWR11;Lajes Corporativas;1
+98;HAAA11;Lajes Corporativas;1
+99;HABT11;Títulos e Val. Mob.;0
+100;HBRH11;Híbrido;3
+101;HCHG11;Outros;0
+102;HCRI11;Hospital;1
+103;HCTR11;Outros;0
+104;HFOF11;Títulos e Val. Mob.;0
+105;HGBS11;Shoppings;17
+106;HGCR11;Títulos e Val. Mob.;0
+107;HGFF11;Títulos e Val. Mob.;0
+108;HGIC11;Títulos e Val. Mob.;0
+109;HGLG11;Logística;17
+110;HGPO11;Lajes Corporativas;2
+111;HGRE11;Lajes Corporativas;21
+112;HGRS11;Residencial;0
+113;HGRU11;Híbrido;17
+114;HLOG11;Logística;3
+115;HOSI11;Híbrido;2
+116;HPDP11;Shoppings;1
+117;HRDF11;Híbrido;0
+118;HREC11;Títulos e Val. Mob.;0
+119;HSAF11;Títulos e Val. Mob.;0
+120;HSLG11;Logística;5
+121;HSML11;Shoppings;6
+122;HSRE11;Híbrido;29
+123;HTMX11;Hotel;23
+124;HUSC11;Outros;0
+125;HUSI11;Hospital;0
+126;IBCR11;Títulos e Val. Mob.;0
+127;IBFF11;Títulos e Val. Mob.;0
+128;IDFI11;Híbrido;0
+129;IRDM11;Títulos e Val. Mob.;0
+130;IRIM11;Híbrido;0
+131;ITIP11;Títulos e Val. Mob.;0
+132;ITIT11;Títulos e Val. Mob.;0
+133;JFLL11;Residencial;2
+134;JGPX11;Híbrido;0
+135;JPPA11;Títulos e Val. Mob.;0
+136;JRDM11;Shoppings;1
+137;JSAF11;Títulos e Val. Mob.;0
+138;JSRE11;Híbrido;5
+139;KCRE11;Renda;0
+140;KEVE11;Residencial;0
+141;KFOF11;Títulos e Val. Mob.;0
+142;KINP11;Residencial;0
+143;KISU11;Títulos e Val. Mob.;0
+144;KNCA11;Títulos e Val. Mob.;0
+145;KNCR11;Títulos e Val. Mob.;0
+146;KNHY11;Títulos e Val. Mob.;0
+147;KNIP11;Títulos e Val. Mob.;0
+148;KNRE11;Residencial;0
+149;KNRI11;Híbrido;20
+150;KNSC11;Títulos e Val. Mob.;0
+151;LASC11;Shoppings;3
+152;LFTT11;Residencial;0
+153;LGCP11;Logística;5
+154;LUGG11;Residencial;4
+155;LVBI11;Logística;10
+156;MALL11;Shoppings;8
+157;MATV11;Títulos e Val. Mob.;0
+158;MAXR11;Outros;8
+159;MBRF11;Outros;2
+160;MCCI11;Títulos e Val. Mob.;0
+161;MCHF11;Títulos e Val. Mob.;0
+162;MCHY11;Títulos e Val. Mob.;0
+163;MFAI11;Híbrido;0
+164;MFII11;Híbrido;9
+165;MGCR11;Títulos e Val. Mob.;0
+166;MGFF11;Títulos e Val. Mob.;0
+167;MGHT11;Hotel;0
+168;MORC11;Títulos e Val. Mob.;0
+169;MORE11;Títulos e Val. Mob.;0
+170;MXRF11;Híbrido;0
+171;NAVT11;Títulos e Val. Mob.;0
+172;NCHB11;Títulos e Val. Mob.;0
+173;NCRI11;Títulos e Val. Mob.;0
+174;NEWL11;Híbrido;2
+175;NEWU11;Lajes Corporativas;3
+176;NSLU11;Hospital;1
+177;NVHO11;Hospital;1
+178;NVIF11B;Outros;0
+179;ONEF11;Lajes Corporativas;1
+180;ORPD11;Títulos e Val. Mob.;0
+181;OUFF11;Títulos e Val. Mob.;0
+182;OUJP11;Títulos e Val. Mob.;0
+183;OULG11;Outros;2
+184;OURE11;Títulos e Val. Mob.;0
+185;PABY11;Híbrido;1
+186;PATC11;Lajes Corporativas;6
+187;PATL11;Híbrido;4
+188;PLCR11;Híbrido;0
+189;PLOG11;Logística;1
+190;PLRI11;Títulos e Val. Mob.;0
+191;PORD11;Títulos e Val. Mob.;0
+192;PQAG11;Logística;1
+193;PQDP11;Shoppings;1
+194;PRSV11;Lajes Corporativas;2
+195;PVBI11;Lajes Corporativas;4
+196;QAGR11;Outros;12
+197;QAMI11;Híbrido;0
+198;QIRI11;Títulos e Val. Mob.;0
+199;RBCO11;Lajes Corporativas;4
+200;RBDS11;Residencial;0
+201;RBED11;Outros;5
+202;RBFF11;Títulos e Val. Mob.;0
+203;RBGS11;Shoppings;1
+204;RBHG11;Títulos e Val. Mob.;0
+205;RBHY11;Títulos e Val. Mob.;0
+206;RBIR11;Residencial;0
+207;RBLG11;Logística;1
+208;RBRD11;Híbrido;4
+209;RBRF11;Títulos e Val. Mob.;0
+210;RBRL11;Logística;6
+211;RBRP11;Outros;17
+212;RBRR11;Títulos e Val. Mob.;0
+213;RBRS11;Híbrido;0
+214;RBRY11;Títulos e Val. Mob.;0
+215;RBTS11;Outros;0
+216;RBVA11;Outros;72
+217;RBVO11;Outros;0
+218;RCRB11;Lajes Corporativas;10
+219;RDPD11;Títulos e Val. Mob.;0
+220;RECR11;Títulos e Val. Mob.;0
+221;RECT11;Híbrido;8
+222;RECX11;Outros;0
+223;RELG11;Híbrido;3
+224;RFOF11;Títulos e Val. Mob.;0
+225;RMAI11;Lajes Corporativas;1
+226;RNDP11;Títulos e Val. Mob.;0
+227;RNGO11;Lajes Corporativas;3
+228;RRCI11;Títulos e Val. Mob.;0
+229;RSPD11;Residencial;0
+230;RVBI11;Títulos e Val. Mob.;0
+231;RZAG11;Títulos e Val. Mob.;0
+232;RZAK11;Títulos e Val. Mob.;0
+233;RZTR11;Híbrido;10
+234;SADI11;Títulos e Val. Mob.;0
+235;SARE11;Híbrido;3
+236;SCPF11;Shoppings;1
+237;SDIL11;Logística;5
+238;SEQR11;Outros;0
+239;SHPH11;Shoppings;1
+240;SNCI11;Títulos e Val. Mob.;0
+241;SNFF11;Títulos e Val. Mob.;0
+242;SNLG11;Logística;3
+243;SPTW11;Lajes Corporativas;1
+244;SPVJ11;Outros;0
+245;SRVD11;Títulos e Val. Mob.;0
+246;STRX11;Híbrido;0
+247;TEPP11;Lajes Corporativas;5
+248;TGAR11;Outros;0
+249;TORD11;Outros;0
+250;TRNT11;Lajes Corporativas;1
+251;TRXF11;Outros;44
+252;URPR11;Outros;0
+253;VCJR11;Títulos e Val. Mob.;0
+254;VCRA11;Títulos e Val. Mob.;0
+255;VCRR11;Residencial;0
+256;VGHF11;Títulos e Val. Mob.;0
+257;VGIA11;Títulos e Val. Mob.;0
+258;VGIP11;Outros;0
+259;VGIR11;Títulos e Val. Mob.;0
+260;VIFI11;Títulos e Val. Mob.;0
+261;VILG11;Logística;16
+262;VINO11;Lajes Corporativas;9
+263;VISC11;Shoppings;15
+264;VIUR11;Títulos e Val. Mob.;6
+265;VJFD11;Híbrido;0
+266;VLOL11;Lajes Corporativas;1
+267;VOTS11;Títulos e Val. Mob.;0
+268;VRTA11;Títulos e Val. Mob.;0
+269;VSHO11;Shoppings;3
+270;VSLH11;Outros;0
+271;VTLT11;Logística;1
+272;VVPR11;Híbrido;6
+273;VXXV11;Outros;0
+274;WPLZ11;Shoppings;1
+275;WTSP11B;Híbrido;0
+276;XPCA11;Títulos e Val. Mob.;0
+277;XPCI11;Outros;0
+278;XPCM11;Lajes Corporativas;1
+279;XPHT11;Hotel;5
+280;XPIN11;Outros;5
+281;XPLG11;Logística;13
+282;XPML11;Shoppings;16
+283;XPPR11;Outros;4
+284;XPSF11;Outros;0
+285;XTED11;Lajes Corporativas;1
+286;YUFI11B;Residencial;0
